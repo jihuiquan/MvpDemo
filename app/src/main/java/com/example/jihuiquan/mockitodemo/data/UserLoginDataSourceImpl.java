@@ -5,7 +5,6 @@ import android.support.annotation.NonNull;
 import static com.google.gson.internal.$Gson$Preconditions.checkNotNull;
 
 /**
- * Created by tight on 2016/6/13.
  */
 public class UserLoginDataSourceImpl implements UserLoginDataSource {
 

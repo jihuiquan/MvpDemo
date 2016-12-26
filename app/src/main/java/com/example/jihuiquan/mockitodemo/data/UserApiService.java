@@ -5,7 +5,6 @@ import com.example.jihuiquan.mockitodemo.http.BaseHttpManager;
 import com.example.jihuiquan.mockitodemo.http.HttpServiceManager;
 
 /**
- * Created by tight on 2016/6/14.
  */
 public class UserApiService {
 

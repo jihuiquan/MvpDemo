@@ -10,7 +10,6 @@ import rx.android.schedulers.AndroidSchedulers;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by tight on 2016/6/15.
  */
 public class BaseHttpManager {
 

@@ -7,7 +7,6 @@ import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 /**
- * Created by tight on 2016/6/14.
  */
 public class HttpServiceManager {
 

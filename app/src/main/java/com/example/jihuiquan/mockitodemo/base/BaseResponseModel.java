@@ -1,7 +1,6 @@
 package com.example.jihuiquan.mockitodemo.base;
 
 /**
- * Created by tight on 2016/6/16.
  */
 public class BaseResponseModel<T> {
 

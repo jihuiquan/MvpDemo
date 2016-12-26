@@ -7,7 +7,6 @@ import retrofit2.http.Query;
 import rx.Observable;
 
 /**
- * Created by tight on 2016/6/14.
  */
 public interface UserApi {
 

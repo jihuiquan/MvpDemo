@@ -1,7 +1,6 @@
 package com.example.jihuiquan.mockitodemo.common;
 
 /**
- * Created by tight on 2016/6/14.
  */
 public class AppConfig {
 

@@ -7,7 +7,6 @@ import com.example.jihuiquan.mockitodemo.base.BaseResponseModel;
 
 
 /**
- * Created by tight on 2016/6/13.
  */
 public interface UserLoginDataSource {
 

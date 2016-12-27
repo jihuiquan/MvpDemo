@@ -8,8 +8,7 @@ import android.view.View;
 import android.widget.EditText;
 
 import com.example.jihuiquan.mockitodemo.R;
-import com.example.jihuiquan.mockitodemo.data.UserLoginDataSourceImpl;
-import com.example.jihuiquan.mockitodemo.utils.MD5Util;
+import com.example.jihuiquan.mockitodemo.data.hello.HelloDataSourceImpl;
 
 /**
  * Created by jihuiquan on 2016/12/26.
@@ -26,13 +25,14 @@ public class LoginActivity extends AppCompatActivity implements LoginContract.Vi
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
-        loginPresenter = new LoginPresenter(this, new UserLoginDataSourceImpl());
+        loginPresenter = new LoginPresenter(this, new HelloDataSourceImpl());
         account = (EditText) findViewById(R.id.account);
         passworid = (EditText) findViewById(R.id.password);
         findViewById(R.id.login_bt).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                loginPresenter.login(account.getText().toString().trim(), MD5Util.getMd5(passworid.getText().toString().trim()));
+            loginPresenter.getHelloInfo();
+// loginPresenter.login(account.getText().toString().trim(), MD5Util.getMd5(passworid.getText().toString().trim()));
             }
         });
 

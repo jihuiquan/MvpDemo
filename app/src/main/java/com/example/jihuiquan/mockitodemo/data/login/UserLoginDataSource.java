@@ -1,4 +1,4 @@
-package com.example.jihuiquan.mockitodemo.data;
+package com.example.jihuiquan.mockitodemo.data.login;
 
 import android.support.annotation.NonNull;
 

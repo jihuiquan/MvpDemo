@@ -1,4 +1,4 @@
-package com.example.jihuiquan.mockitodemo.data;
+package com.example.jihuiquan.mockitodemo.data.login;
 
 import com.example.jihuiquan.mockitodemo.base.BaseResponseModel;
 
@@ -12,5 +12,4 @@ public interface UserApi {
 
     @POST("user/proLogin")
     Observable<BaseResponseModel<User>> login(@Query("account") String username, @Query("password") String password);
-
 }

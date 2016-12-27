@@ -3,120 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_5709c59b212f96c79df4a61883b5a9a4f6160c31/classes.dex" />
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_a4487d878fcbfada693a8ca80da51ad896a3a55b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_aeba95b8e832237392bb720c2bbb8f0e619c169f/classes.dex" />
+        sha1="5362f54003620f4c7dede4557d2806d2ded7faf5">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ffec53717958ec4ec019c14ae7537d2ad1c68521/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="2ce4156c5aea67167bc17a3e346ea2d276cebf82">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cf4139bbed7e96167102a777f97f1092dffafddf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_d52f7eb85ef8920899e309f01c0a222c00d1a9b2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_7b0b7aa3fbf4c4a4e538330114324a6304c98b01/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.wrapp.floatlabelededittext/library/0.0.6/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="0db8e1dc3097c0db8425b339e5e720ef6e918400">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.wrapp.floatlabelededittext-library-0.0.6_f89b8559bf7b3723639f5187d8b1623a571390d7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_8603a9dae59bf624d459a2655bf1b3a3b95e126f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_aa03356293fc72a58e715d49c439496c7a11f112/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_6d2af1560547af7455b0572d4fba746025e059e6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_a08b0746a403ea84cd62da901713eebc570aa6de/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_3f682154a259159bccf943e2a26c865b8804c348/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_cb47713109f7409eb4c44251e3c35a0b77f74f0f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_283e37eb79f9094ab277f7b67dd4dc17e4c2d4de/classes.dex" />
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_31dab354d8994a1d4762c4c2c95d9172df0040f8/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -125,16 +35,25 @@
         optimize="true"
         revision="25.0.1"
         sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.5_d453d9cc88577b6eb9d25a37ceaf2bd806d0edaf/classes.dex" />
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.5_d453d9cc88577b6eb9d25a37ceaf2bd806d0edaf/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.wrapp.floatlabelededittext/library/0.0.6/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_ceafa08b773fc5e3c24bd965aae85103f3fc5e9a/classes.dex" />
+        sha1="0db8e1dc3097c0db8425b339e5e720ef6e918400">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.wrapp.floatlabelededittext-library-0.0.6_ac30182aefdf3fd969abb43885b11194028bb420/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_582bd91e355d686d686002b2b6fffb9703284ffb/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -143,43 +62,16 @@
         optimize="true"
         revision="25.0.1"
         sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_8ba7c0f8c90395efc8a81c6c5f19f2c8ce1d7783/classes.dex" />
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_8ba7c0f8c90395efc8a81c6c5f19f2c8ce1d7783/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_efa5c9b8f8e40e478dd2832d48077a4f3a4f776b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_3a7ad00518878bdd0ecedd3f50228d45c3b82c02/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_c3a3d8ccff1efed346575a536406f73dc728662e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.1"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_b2c71cd4704116afd25d5e0af0e41afd986a1793/classes.dex" />
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_9b5b24aa60486248fd1990f7eee5bb0ba45f45b0/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -188,25 +80,133 @@
         optimize="true"
         revision="25.0.1"
         sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_a5eb4d61d934d6dd07e8628fde1c0559c0437137/classes.dex" />
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_a5eb4d61d934d6dd07e8628fde1c0559c0437137/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="e46bac34fe252ca3bbeb2b247da031c3a017bffe">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4cc1b0551a404aa8107cebce152f967c52bcf837/classes.dex" />
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.1.0_33be3d8c1b89cf8394486bffca69d9e5219ebab4/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/jihuiquan/MockitoDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/jihuiquan/MockitoDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_9a7641280735e7a794f05e2406de9ed9a3e48039/classes.dex" />
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.3.1_d52f7eb85ef8920899e309f01c0a222c00d1a9b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_7b0b7aa3fbf4c4a4e538330114324a6304c98b01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_8603a9dae59bf624d459a2655bf1b3a3b95e126f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_6d2af1560547af7455b0572d4fba746025e059e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_aa03356293fc72a58e715d49c439496c7a11f112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_46ffca629222916c727773b02ec43c7cb2f7bb91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_27e8ca17b3b0da2b7e64ff73468089846beb13de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_283e37eb79f9094ab277f7b67dd4dc17e4c2d4de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_3a7ad00518878bdd0ecedd3f50228d45c3b82c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="610461d9571442974d76a55dc69173e5d8591acc">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b2ac299cb130fa4fd8a1b01929f1fe21af7c2c85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_772837e0d9fd73e6e31a8555c910164fe269bbeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_598e5774164e3c9e573f6c16e60d313770936f3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jihuiquan/MvpDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/jihuiquan/MvpDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_efe041b5b02e9f2982b61f28efef64c5d2ed0759/classes.dex" />
     </item>
 
 </items>
